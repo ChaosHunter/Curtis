@@ -10,11 +10,11 @@
 
 #appsettings.json
 
-# 忽略所有的php
+# 忽略所有的dll
 *.dll
 
-# 忽略 a.php b.php
-#[ab].php
+# 忽略 a.cs b.cs
+#[ab].cs
 
 #匹配规则和linux文件匹配一样
 #以斜杠“/”开头表示目录；
